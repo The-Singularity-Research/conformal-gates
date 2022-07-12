@@ -13,5 +13,5 @@ determined by the conformal mapping. The entanglement between any pair of qudits
 "entanglement distance" that reflects the new relative positions of the qudits in the new surface code. 
 
 ### [SageMath Riemann Mapping](https://doc.sagemath.org/html/en/reference/calculus/sage/calculus/riemann.html)
-### [SageMath Complex Plots](Complex Plots)
+### [SageMath Complex Plots](https://doc.sagemath.org/html/en/reference/plotting/sage/plot/complex_plot.html)
 ### [SageMath Minimal Genus](https://doc.sagemath.org/html/en/reference/graphs/sage/graphs/genus.html)
